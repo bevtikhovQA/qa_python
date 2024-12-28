@@ -1,1 +1,8 @@
-# qa_python
+- add_new_book(name): добавляет новую книгу.
+- set_book_genre(name, genre): устанавливает жанр для указанной книги.
+- get_book_genre(name): получает жанр книги по её имени.
+- get_books_with_specific_genre(genre): выводит список книг с определённым жанром.
+- get_books_for_children(): возвращает книги, подходящие детям.
+- add_book_in_favorites(name): добавляет книгу в избранное.
+- delete_book_from_favorites(name): удаляет книгу из избранного.
+- get_list_of_favorites_books(): получает список избранных книг.
